@@ -1,6 +1,6 @@
 # ufodrop.github.io
 
-[ufodrop](http://ufodrop.github.com)
+[ufodrop](http://ufodrop.github.io)
 
 
 You can type "." in Github UI and that will launch a github.dev editor based on VS Code. By creating a terminal space, you can do all the commands.
